@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+
+class Collegeform
+{
+    public static void Main(String[] args)
+    {
+        Console.WriteLine("Registration Form");
+        Console.WriteLine("Enter NAme");
+        Console.ReadLine();
+        Console.WriteLine("Enter Age");
+        Console.ReadLine();
+        Console.WriteLine("Enter Passout Year");
+        Console.ReadLine();
+        Console.WriteLine("Enter Address");
+        Console.ReadLine();
+        Console.WriteLine("Enter Marks");
+        Console.ReadLine();
+        Console.WriteLine("Enter Nationality");
+        Console.ReadLine();
+
+    }
+}
+
